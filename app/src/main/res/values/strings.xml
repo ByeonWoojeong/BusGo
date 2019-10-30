@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">버스고</string>
+    <string name="url">https://busgokorea.com</string>
+    <string name="url2">https://api.busgokorea.com</string>
+</resources>

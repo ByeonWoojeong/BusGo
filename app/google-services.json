@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "671817688228",
+    "firebase_url": "https://busgo-1747a.firebaseio.com",
+    "project_id": "busgo-1747a",
+    "storage_bucket": "busgo-1747a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671817688228:android:063fb8f0c72f3991",
+        "android_client_info": {
+          "package_name": "kr.ghsoft.busgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671817688228-62mk72bllmshrb2du30g9toermeo00c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9rcarUDD3rkVi_qpEsM9NRhJ1Mmn6ovY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671817688228-62mk72bllmshrb2du30g9toermeo00c3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671817688228-l9ch1hcnmqhrtb9aeq5nv993sfp31uc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.ghsoft.busgo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
